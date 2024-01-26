@@ -3871,7 +3871,7 @@ input, select, textarea {
 		/*background-image: url("images/intro.svg");*/
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% auto;
+		background-size: 100% 100%;
 	}
 
 		#intro p {
