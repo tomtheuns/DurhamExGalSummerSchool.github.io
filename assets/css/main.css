@@ -3867,7 +3867,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/cosmodwarfs3.png");
+		background-image: url("images/cosmodwarfs3_crop.png");
 		/*background-image: url("images/intro.svg");*/
 		background-position: right top;		
 		background-repeat: no-repeat;
