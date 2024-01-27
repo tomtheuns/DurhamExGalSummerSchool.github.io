@@ -3869,11 +3869,10 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-image: url("images/cosmodurham1.png");
 		/*background-image: url("images/intro.svg");*/
-		/*background-position: top right;*/
-		background-position: left top;
+		background-position: top right;		
 		background-repeat: no-repeat;
 		/*background-size: 100% 100%;*/
-		background-size: contain;
+		background-size: cover;
 	}
 
 		#intro p {
